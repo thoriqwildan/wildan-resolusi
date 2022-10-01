@@ -1,8 +1,11 @@
 Resolusi wildan:
 - buat website untuk dijual
   *tau cara hosting
+   - Hosting murah
+   - Gratis
   *konsisten
 - Belajar database
 - punya uang minimal 1 juta
 - Jadi programmer
 - masuk OSIS
+- Belajar java
