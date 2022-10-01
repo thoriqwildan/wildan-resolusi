@@ -5,7 +5,7 @@ Resolusi wildan:
    - Gratis
   *konsisten
 - Belajar database
-- punya uang minimal 1 juta
+ * Entah
 - Jadi programmer
 - masuk OSIS
 - Belajar java
