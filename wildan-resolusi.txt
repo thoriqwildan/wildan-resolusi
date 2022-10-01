@@ -1,10 +1,11 @@
 Resolusi wildan:
 - buat website untuk dijual
   *tau cara hosting
-   - Gatau
-   - Hosting gratis
+   - Hosting murah
+   - Gratis
   *konsisten
 - Belajar database
  * Entah
 - Jadi programmer
 - masuk OSIS
+- Belajar java
